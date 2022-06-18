@@ -1,1 +1,1 @@
-Private Parallax-Vite Testproj
+Private Parallax-Vite Testproject
